@@ -1,0 +1,61 @@
+{
+"WebSite":[
+		{"SiteName": "app.officebox.local"},
+		{"SiteName": "account.officebox.local"},
+		{"SiteName": "auth.officebox.local"},
+		{"SiteName": "crm.officebox.local"},
+		{"SiteName": "dashboard.officebox.local"},
+		{"SiteName": "hr.officebox.local"},
+		{"SiteName": "inventory.officebox.local"},
+		{"SiteName": "sap.officebox.local"}
+		],
+
+	"BuildSiteName":[
+		{"SiteName": "in-mvc-20"},
+		{"SiteName": "In.OfficeBox.Api.Accounts"},
+		{"SiteName": "In.OfficeBox.Api.Auth"},
+		{"SiteName": "In.OfficeBox.Api.Dashboards"},
+		{"SiteName": "In.OfficeBox.Api.Inventory"},
+		{"SiteName": "In.OfficeBox.Api.SAP"},
+		{"SiteName": "In.OfficeBox.Api.HR"},
+		{"SiteName": "In.OfficeBox.Api.CRM"}
+	],
+
+"ADMINDB":[
+		{"ADMIN": "officebox_admin_tdata"}
+	],
+
+"SADB":	[
+		{"SA": "tdatasa_10000000000000288"}
+	],
+
+"STDB":[
+		{"ST": "tdatast_10000000000000288_10000000000019315_10000000000019697"},
+		{"ST": "tdatast_10000000000000288_10000000000019817_10000000000020205"}
+	],	
+
+"SWDB": [
+		{"SW": "tdatasw_10000000000000288"}
+	],
+
+"MySQLServer":[
+		{"DBHost": "localhost"}
+	],
+			
+"MySQLUserName":[
+		{"UserName": "root"}
+	],
+
+"MySQLPassword":[
+		{"Password": "admin"}
+	],
+			
+"FolderPath":[
+		{"Path": "D:\\OFFICEBOX\\inetpub\\wwwroot\\my\\"}
+	],
+"BuildLogsPath":[
+		{"Path": "D:\\OFFICEBOX\\OBLocalBuildDeployment\\BUILD_LOGS\\"}
+	]
+}
+		
+
